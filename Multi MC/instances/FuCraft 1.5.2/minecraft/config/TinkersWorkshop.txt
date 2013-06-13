@@ -22,6 +22,7 @@ block {
     I:"Special Soil"=1476
     I:"Speed Block"=1489
     I:"Stone Torch"=1484
+    I:"Tool Forge"=1468
     I:"Wood Tool Station"=1471
 }
 
@@ -38,6 +39,7 @@ block {
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
     B:"Remove Overworld void fog"=true
+    B:"Spawn beginner book"=true
     B:"Turn water clear"=true
 }
 
@@ -114,17 +116,24 @@ superfun {
     I:"Axe Head"=14028
     I:"Chisel Head"=14039
     I:Crossbar=14033
+    I:"Excavator Head"=31716
     I:"Frypan Head"=14035
+    I:"Hammer Head"=31715
     I:"Hoe Head"=14029
     I:"Knife Blade"=14038
     I:"Large Guard"=14031
+    I:"Large Plate"=31717
+    I:"Large Sword Blade"=31718
     I:"Lumber Axe Head"=14037
     I:"Medium Guard"=14032
     I:"Pickaxe Head"=14026
+    I:"Scythe Head"=14040
     I:"Shovel Head"=14027
     I:"Sign Head"=14036
     I:"Sword Blade"=14030
     I:"Tool Binding"=14034
+    I:"Tough Binding"=14041
+    I:"Tough Rod"=31719
 }
 
 
@@ -134,11 +143,15 @@ superfun {
 
 tools {
     I:Axe=14053
+    I:Battleaxe=14071
     I:Battlesign=14059
     I:Broadsword=14055
     I:Chisel=14066
+    I:Cleaver=14068
     I:Dagger=14065
+    I:Excavator=14069
     I:"Frying Pan"=14058
+    I:Hammer=14070
     I:Hoe=14054
     I:Longbow=14062
     I:Longsword=14056
@@ -147,6 +160,7 @@ tools {
     I:Pickaxe=14051
     I:"Potion Launcher"=14064
     I:Rapier=14057
+    I:Scythe=14067
     I:Shortbow=14063
     I:Shovel=14052
 }

@@ -1,0 +1,5 @@
+#Autofish Properties
+#Thu Jun 13 19:56:23 CEST 2013
+enabled=true
+recasttime=45000
+recaster=true
