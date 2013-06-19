@@ -177,6 +177,7 @@ languagefile {
     S:item.GT_Gasses.38.name=Gaseous Nitrogen Dioxide
     S:item.GT_Gasses.6.name=Gaseous Helium-3
     S:item.GT_Gasses.9.name=Gaseous Methane
+    S:item.GT_Hammer_Rubber.name=Rubber Hammer
     S:item.GT_Liquids.10.name=Liquid Berylium
     S:item.GT_Liquids.11.name=Liquid Calcium
     S:item.GT_Liquids.12.name=Liquid Sodium

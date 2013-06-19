@@ -5,6 +5,7 @@
 ####################
 
 block {
+    I:Aggregator=3221
     I:Barricade=1469
     I:"Held Item Block"=1472
     I:Landmine=1470
@@ -13,6 +14,7 @@ block {
     I:"Liquid Metal Still"=1480
     I:"Metal Storage"=1478
     I:"Multi Brick"=1481
+    I:"Multi Brick Fancy"=1467
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
     I:"Ores Gravel"=1488
@@ -55,6 +57,7 @@ equipables {
     I:"Heavy Chestplate"=14108
     I:"Heavy Helmet"=14106
     I:"Heavy Pants"=14109
+    I:Knapsack=14112
 }
 
 
@@ -118,6 +121,7 @@ superfun {
     I:Crossbar=14033
     I:"Excavator Head"=31716
     I:"Frypan Head"=14035
+    I:"Full Guard"=31714
     I:"Hammer Head"=31715
     I:"Hoe Head"=14029
     I:"Knife Blade"=14038
@@ -148,6 +152,7 @@ tools {
     I:Broadsword=14055
     I:Chisel=14066
     I:Cleaver=14068
+    I:Cutlass=14072
     I:Dagger=14065
     I:Excavator=14069
     I:"Frying Pan"=14058
