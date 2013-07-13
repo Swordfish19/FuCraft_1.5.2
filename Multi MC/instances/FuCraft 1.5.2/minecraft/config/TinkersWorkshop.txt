@@ -9,7 +9,9 @@ block {
     I:Barricade=1469
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
+    I:"Clear Stained Glass Pane"=3229
     I:"Drying Rack"=3227
+    I:"Glass Pane"=3228
     I:"Held Item Block"=1472
     I:Landmine=1470
     I:"Lava Tank"=1473
@@ -126,10 +128,13 @@ superfun {
 ####################
 
 "tool parts" {
+    I:Arrowhead=31721
     I:"Axe Head"=14028
+    I:Bowstring=31722
     I:"Chisel Head"=14039
     I:Crossbar=14033
     I:"Excavator Head"=31716
+    I:Fletching=31720
     I:"Frypan Head"=14035
     I:"Full Guard"=31714
     I:"Hammer Head"=31715
@@ -156,6 +161,7 @@ superfun {
 ####################
 
 tools {
+    I:Arrow=14073
     I:Axe=14053
     I:Battleaxe=14071
     I:Battlesign=14059
@@ -218,6 +224,7 @@ worldgen {
     I:"Copper Underground Density"=2
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
+    I:"Essence Bush Rarity"=6
     I:"Gold Bush Density"=1
     I:"Gold Bush Rarity"=8
     I:"Gold Surface Rarity"=900
@@ -249,6 +256,7 @@ worldgen {
     B:"Generate Cobalt and Ardite"=true
     B:"Generate Copper"=false
     B:"Generate Copper Bushes"=true
+    B:"Generate Essence Bushes"=true
     B:"Generate Gold Bushes"=true
     B:"Generate Iron Bushes"=true
     B:"Generate Silver Bushes"=true
