@@ -37,6 +37,8 @@ block {
     I:"Sakura Leaves"=3258
     I:Sapling=3256
     I:Thornvines=3282
+    I:"Topiary Grass Block"=3286
+    I:"Topiary Grass Slab"=3287
     I:"Willow Log"=3280
     I:"Wood Block"=3251
 }
