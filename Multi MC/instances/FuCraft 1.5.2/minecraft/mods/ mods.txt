@@ -1,0 +1,26 @@
+????
+AdvancedPowerManagement
+appeng
+BiblioCraft
+ee3
+ExtrabiomesXL
+Factorization
+More Pistons
+mystcraft
+Natura
+OpenPeripheral
+SecretRoomsMod
+TConstruct
+Thaumcraft
+twilightforest
+
+------
+ArsMagica
+chargepads
+GravityGun
+switches
+More Pistons
+obsidiplates
+Translocator
+
+
